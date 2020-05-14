@@ -13,9 +13,13 @@ return arr;
 }
 writeCards(["Lisa", "Kaitlin", "Jan"], "surprise");
 
-function countDown (count) {
-  let i;
-  
-  while (i < count)
-  
+function countDown (count){
+
+while (count > 0){
+
+console.log(`Countdown ${count}`);
+count--;
 }
+    
+}
+countDown(10);
