@@ -12,3 +12,10 @@ arr.push(msg);
 return arr;
 }
 writeCards(["Lisa", "Kaitlin", "Jan"], "surprise");
+
+function countDown (count) {
+  let i;
+  
+  while (i < count)
+  
+}
