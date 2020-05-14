@@ -23,4 +23,7 @@ count--;
     
 }
 countDown(4);
+countDown(3);
+countDown(2);
+countDown(1);
 countDown(10);
