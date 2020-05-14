@@ -15,7 +15,7 @@ writeCards(["Lisa", "Kaitlin", "Jan"], "surprise");
 
 function countDown (count){
 
-while (count > 0){
+while (count > -1){
 
 console.log(`Countdown ${count}`);
 count--;
