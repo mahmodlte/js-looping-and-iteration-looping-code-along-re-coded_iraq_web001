@@ -17,7 +17,7 @@ function countDown (count){
 
 while (count > -1){
 
-console.log(`Countdown ${count}`);
+console.log(count);
 count--;
 }
     
