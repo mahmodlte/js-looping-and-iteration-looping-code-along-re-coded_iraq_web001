@@ -22,4 +22,5 @@ count--;
 }
     
 }
+countDown(4);
 countDown(10);
